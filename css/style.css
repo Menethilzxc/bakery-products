@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
 body {
     background-color: #ffe2b0;
 }
@@ -131,4 +135,8 @@ iframe {
 
 footer {
     height: 80px;
+}
+
+h1, h2, h3 {
+    font-family: 'Philosopher', sans-serif;
 }
